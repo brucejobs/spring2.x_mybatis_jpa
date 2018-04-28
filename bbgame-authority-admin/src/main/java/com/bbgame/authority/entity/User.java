@@ -1,5 +1,8 @@
 package com.bbgame.authority.entity;
 
+import org.hibernate.annotations.DynamicInsert;
+import org.hibernate.annotations.DynamicUpdate;
+
 import javax.persistence.*;
 
 /**
@@ -8,9 +11,11 @@ import javax.persistence.*;
  * @Company bbgame
  */
 
+@DynamicInsert
+@DynamicUpdate
 @Entity
-@Table(name = "bbgame_usr")
-public class User {
+@Table(name = "sys_user")
+public class User extends BaseDomain {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
