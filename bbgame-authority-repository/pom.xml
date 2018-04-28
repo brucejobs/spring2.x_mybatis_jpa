@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.bbgame</groupId>
+        <artifactId>bbgame-backend</artifactId>
+        <version>1.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.bbgame</groupId>
+    <artifactId>bbgame-authority-repository</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.bbgame.common</groupId>
+            <artifactId>bbgame-common-lib</artifactId>
+            <version>${bbgame.version}</version>
+        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.mybatis.spring.boot</groupId>-->
+            <!--<artifactId>mybatis-spring-boot-starter</artifactId>-->
+            <!--<version>1.3.1</version>-->
+        <!--</dependency>-->
+        <!--&lt;!&ndash;mapper注解&ndash;&gt;-->
+        <!--<dependency>-->
+            <!--<groupId>tk.mybatis</groupId>-->
+            <!--<artifactId>mapper-spring-boot-starter</artifactId>-->
+            <!--<version>1.1.1</version>-->
+        <!--</dependency>-->
+    </dependencies>
+
+</project>

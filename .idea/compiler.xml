@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bbgame-authority-admin" />
+        <module name="bbgame-authority-repository" />
+        <module name="bbgame-authority-service" />
+        <module name="bbgame-common-lib" />
+        <module name="bbgamebackend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bbgame-authority-admin" target="1.8" />
+      <module name="bbgame-authority-repository" target="1.8" />
+      <module name="bbgame-authority-service" target="1.8" />
+      <module name="bbgame-backend" target="1.8" />
+      <module name="bbgame-common-lib" target="1.8" />
+      <module name="bbgamebackend" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

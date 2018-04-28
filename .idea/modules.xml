@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bbgame-authority-admin/bbgame-authority-admin.iml" filepath="$PROJECT_DIR$/bbgame-authority-admin/bbgame-authority-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbgame-authority-repository/bbgame-authority-repository.iml" filepath="$PROJECT_DIR$/bbgame-authority-repository/bbgame-authority-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbgame-authority-service/bbgame-authority-service.iml" filepath="$PROJECT_DIR$/bbgame-authority-service/bbgame-authority-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbgame-backend.iml" filepath="$PROJECT_DIR$/bbgame-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbgame-common-lib/bbgame-common-lib.iml" filepath="$PROJECT_DIR$/bbgame-common-lib/bbgame-common-lib.iml" />
+    </modules>
+  </component>
+</project>
