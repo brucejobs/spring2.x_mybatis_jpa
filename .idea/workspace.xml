@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ebb26a7-54c0-4317-9b09-d150c5134c2f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bbgame-authority-admin/src/main/java/com/bbgame/authority/config/KafaProducerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/bbgame-authority-admin/src/main/java/com/bbgame/authority/config/KafaProducerConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="9ebb26a7-54c0-4317-9b09-d150c5134c2f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/bbgame-authority-service/target/" />
@@ -288,9 +284,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="133" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="345" />
+    <option name="y" value="300" />
     <option name="width" value="1679" />
     <option name="height" value="1100" />
   </component>
@@ -404,7 +400,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UserTest">
+  <component name="RunManager" selected="Spring Boot.backend-api">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -619,7 +615,7 @@
       <workItem from="1524533867413" duration="14704000" />
       <workItem from="1524627843131" duration="2498000" />
       <workItem from="1524807737638" duration="7135000" />
-      <workItem from="1524881199090" duration="3813000" />
+      <workItem from="1524881199090" duration="5040000" />
     </task>
     <servers />
   </component>
@@ -656,11 +652,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73407000" />
+    <option name="totallyTimeSpent" value="74634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.35730338" />
@@ -672,12 +667,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.12553649" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22497188" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4791901" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.123595506" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8153153" visible="true" weight="0.22532189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8153153" visible="true" weight="0.22532189" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="2" sideWeight="0.18468468" side_tool="true" weight="0.22854078" />
       <window_info anchor="right" id="Database" order="3" weight="0.3299356" />
